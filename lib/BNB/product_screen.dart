@@ -320,6 +320,7 @@ class _ProductScreenState extends State<ProductScreen> {
                                 return "Fill the Field";
                               }
                             },
+
                             decoration: const InputDecoration(
                                 hintText: "Enter Product Name"),
                           ),
